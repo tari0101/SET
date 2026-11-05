@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://github.com/tari0101/SET.git/',
+	site: 'https://github.com/tari0101/SET/',
 	base: '/SET/',
 	integrations: [mdx(), sitemap()],
 	fonts: [
